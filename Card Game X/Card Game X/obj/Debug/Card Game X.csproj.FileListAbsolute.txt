@@ -1,0 +1,12 @@
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\bin\Debug\Card Game X.exe.config
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\bin\Debug\Card Game X.exe
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\bin\Debug\Card Game X.pdb
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card Game X.csproj.AssemblyReference.cache
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card_Game_X.Properties.Resources.resources
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card_Game_X.slashScreen.resources
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card Game X.csproj.GenerateResource.cache
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card Game X.csproj.CoreCompileInputs.cache
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card Game X.exe
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card Game X.pdb
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card_Game_X.Form1.resources
+C:\Users\Vusumuzi\Desktop\Card Game X\Card Game X\obj\Debug\Card Game X.csproj.SuggestedBindingRedirects.cache
